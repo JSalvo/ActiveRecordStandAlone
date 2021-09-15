@@ -1,0 +1,4 @@
+gem install sqlite3        # sqlite ver. 3
+gem install activerecord   # Active Record
+gem install pry            # Debug
+gem install activesupport  # some tricks (ie 1.month)
